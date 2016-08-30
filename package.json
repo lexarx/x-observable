@@ -1,0 +1,16 @@
+{
+	"name": "x-observable",
+	"version": "1.0.0",
+	"description": "Observable value class.",
+	"keywords": [
+		"observable", "data", "value", "state", "model"
+	],
+	"author": "Alexey Nichiporchik",
+	"bugs": "https://github.com/lexarx/x-observable/issues",
+	"license": "MIT",
+	"main": "observable.js",
+	"repository": "lexarx/x-observable",
+	"dependencies": {
+		"x-event": "^1.0.0"
+	}
+}
